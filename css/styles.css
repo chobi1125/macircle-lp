@@ -1,0 +1,36 @@
+.bg-aliceblue{
+  background-color: rgba(240, 248, 255, 0.496);
+}
+.no-padding{
+  padding: 0;
+}
+
+#top-logo {
+  width: 8%;
+}
+.head-title-responsive{
+  width: 60%;
+}
+
+.top-image-text{
+  color: rgb(49, 49, 49);
+  background-color: rgba(255, 255, 0, 0.544);
+}
+
+.img-fluid{
+  max-height: 567px;
+}
+
+.color {
+  background-color: rgba(0, 79, 136, 0.496);
+  color: white;
+}
+
+.white{
+  color: white;
+}
+
+/* sticky-topにすると不要 */
+.header-blank {
+  /* margin-top: 90px; */
+}
